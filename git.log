@@ -1,0 +1,421 @@
+commit 97a99b5bb3b26035d352a49fab3b18b3ca756b4d
+Merge: b9b023c f798e4f
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Dec 3 16:32:40 2015 -0800
+
+    update change
+
+commit b9b023c7be5ecfd194b09aa20f04882f78bb00d3
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Dec 3 16:31:42 2015 -0800
+
+    fix merge conflict
+
+commit f798e4f03fdccf50e12962f2a9e14a2f2b6df156
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 16:30:44 2015 -0800
+
+    add comment to freemem.c
+
+commit 4c568e3a09f103e0f81c9065ccb08e00df307abe
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 15:04:36 2015 -0800
+
+    update hw6.tar and git.log
+
+commit 87785e9b6a123ef79e976fc301e6e847ed48e56d
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 15:03:34 2015 -0800
+
+    update README.txt
+
+commit 589beefab0522e2c07be825a09ed3bd8a17483ff
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 26 16:55:26 2015 -0800
+
+    delete test printfs in those c files
+
+commit f7accd15331f8ba0945e05983740d3e5c4ea2f5e
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 26 16:25:38 2015 -0800
+
+    add some comments in getmem.c
+
+commit 8775a07034bac758594e28fefe5f167e3e238d16
+Merge: 9fdf533 7604db5
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 13:06:26 2015 -0800
+
+    fix conflict
+
+commit 9fdf533923f66c0fe4d800f97b8fa192f09d6335
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 13:03:02 2015 -0800
+
+    fix conflict
+
+commit 01790f0b7b3cf893e9cd7ba71d842f7a4196f258
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Dec 3 01:21:50 2015 -0800
+
+    invalid file
+
+commit 7604db5384c3d88613c5121908636ea381ac7ad5
+Merge: 6d06066 01790f0
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 26 15:15:28 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15au-students/cse374-15au-bg
+
+commit 6d060665f2de73d938dd9347ba8e0f0d46052cf3
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 26 14:16:27 2015 -0800
+
+    check style with clint.py for the c and header files
+
+commit a40eed409a5b3694baed639ed32e06630829195a
+Merge: 890c76a 27ec572
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 26 12:35:10 2015 -0800
+
+    accept merge
+
+commit 27ec5722531d1651fa97027a0658f0c35352026e
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 01:16:13 2015 -0800
+
+    fix print style of print_heap.c
+
+commit 0f0ff50964542c82d3dfcbd9acd73658a3db4e1d
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 00:50:42 2015 -0800
+
+    implementation of combine() and changes in freemem.c
+
+commit 7e01d718518fe208eba4ff9be649f07ca1fc64de
+Merge: e84b60e d2527b1
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 00:43:29 2015 -0800
+
+    fix conflict
+
+commit e84b60eb99813b0a2b7aac0ad8895cef1f850302
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Dec 3 00:41:31 2015 -0800
+
+    avoid merge conflict
+
+commit b4b68230b81a68f47a59e043ee536ce0143cc6db
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Dec 1 20:58:49 2015 -0800
+
+    add array to keep track of getmem pointers
+
+commit 8c8de52790dba5a7e293737eaf1ccee2d25287c7
+Merge: b0f1912 e48ac81
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Dec 1 09:03:44 2015 -0800
+
+    accept change
+
+commit b0f19126772cedacef01f0ea2c549dd1689c2dad
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Dec 1 09:02:02 2015 -0800
+
+    accept changes
+
+commit 890c76a86448737d76f900323449dfc34216990d
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 26 12:33:15 2015 -0800
+
+    merge conflict for print_heap.txt
+
+commit d2527b156b1d334457bea156505900d1075ecbd2
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 26 11:50:17 2015 -0800
+
+    implementation of split in getmem, handle not only default values in bench
+
+commit e48ac81986f326e023864b149cd74a8ad3aebf90
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 22:01:14 2015 -0800
+
+    Added all files again
+
+commit d4088990821df4e68c6c97e11f9f2488abd30680
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 12:15:15 2015 -0800
+
+    reset local repo
+
+commit b67777e0c262d9b28b509a1f54c1735549abbb70
+Merge: 221b9d3 e374861
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 12:07:32 2015 -0800
+
+    fix merge conflict
+
+commit e374861cbd679758fd332ae8151d72ea159bf65e
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Sun Nov 29 17:11:15 2015 -0800
+
+    handle more than 2 blocks
+
+commit 221b9d35936f42762212800ea414a8f60e088f12
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 11:58:34 2015 -0800
+
+    fix merge conflict
+
+commit 559e782c083b4f4f750638dc60ac59f79ffd33ac
+Merge: 96a4e14 90bd108
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 11:07:08 2015 -0800
+
+    fix merge conflict
+
+commit 90bd10849a26c09f1721dcf7271315d5d8620cfe
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Sun Nov 29 15:46:05 2015 -0800
+
+    allows successful handling of 1 block
+
+commit 2a52a63576704b459c24b4c7b28ec34ba51850d6
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Sun Nov 29 15:00:24 2015 -0800
+
+    fix typo
+
+commit 96a4e14fb5b06370e4e386a1c22e17d2ac9091e6
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 11:04:45 2015 -0800
+
+    avoid merge conflict
+
+commit 077e40d709b1bef64992bbf51700cfdb73247946
+Merge: 3dcb998 f2d1867
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 10:11:36 2015 -0800
+
+    fix merge conflict
+
+commit f2d18671616ef384101eafa31b03850b4f9c3a90
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Sun Nov 29 14:53:38 2015 -0800
+
+    add test case and implementation of freemem
+
+commit 3dcb99868fa82297bec536b02240fc800e411465
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 10:09:32 2015 -0800
+
+    fix merge conflict
+
+commit 8e552a869ccec2ad998feb1f22a1ec0d474ade7f
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 02:24:24 2015 -0800
+
+    modified bench.c
+
+commit 7a1612ec205b5f107e734a465e3d307f68ce934d
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Wed Nov 25 02:17:17 2015 -0800
+
+    modify get_mem_stats.c, mem_impl.c and implement a bit of bench.c
+
+commit eb3e4707c42cd9db6c93bc8e432f8457829e2a46
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 07:54:27 2015 -0800
+
+    implement get_mem_stats.c helper funtion split andmodify Makefile
+
+commit 2e9eb695a6c23e5b4e47240d8310d43c4180adfa
+Merge: 34e1172 bb103fd
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 01:47:56 2015 -0800
+
+    fix conflict
+
+commit bb103fd5795f8a36733da6cf4301efa5be2c6c5c
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 24 14:59:41 2015 -0800
+
+    updated algorithm of getmem.c and implemented check_heap()
+
+commit 34e11722d12b5076632bd750dacfad46fd79491b
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 01:45:25 2015 -0800
+
+    update bench.c
+
+commit 4a11a1b1fea1e7450b3415eaac9c0d9cf58544b0
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 01:35:05 2015 -0800
+
+    modify Makefile
+
+commit 0d9f382be813c469c4ada1bd1c89ad1fdc9fd4c8
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 24 14:19:45 2015 -0800
+
+    remove special character
+
+commit 30a0f5f211a4e03d081e3d83180fb826bc8262e6
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 24 14:15:12 2015 -0800
+
+    remove check_heap.c
+
+commit 70318dd54b1e7889799b7c8c52863328c09bf444
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 24 14:08:42 2015 -0800
+
+    update getmem.c
+
+commit d60a84ed5667da48400056e72cbba00f461860b0
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 00:06:46 2015 -0800
+
+    update all
+
+commit a237a0b20a975df9736e548e6a96685aff6ad38b
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 00:03:33 2015 -0800
+
+    cleared local repo
+
+commit b57a0c3e1457bcf92d497752cccbfb9375f5b678
+Merge: bfbb036 59544aa
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 00:02:27 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15au-students/cse374-15au-bg
+
+commit bfbb036ee8e29c5776c41eff282291d76edfc1f8
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 24 00:01:13 2015 -0800
+
+    update all
+
+commit 28d0f7ee0b109d1debd869380c8cba055436794a
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Mon Nov 23 23:57:35 2015 -0800
+
+    modify Makefile
+
+commit 59544aa3a71a8157e4747ccb7a2704e99d86adfa
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Nov 19 16:22:50 2015 -0800
+
+    update hw6.tar and git.log
+
+commit 678d8dcf16d065770903689751b163d0acf71078
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 19 16:01:59 2015 -0800
+
+    add to header files in dist
+
+commit 97c5af5a90d05a695b24797fa4e2e9756f6e7296
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Thu Nov 19 15:58:39 2015 -0800
+
+    change mem_impl.c and mem_impl.h
+
+commit 76179d9471161529f9ff3d2dd3d213deb94c632b
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Nov 19 14:46:17 2015 -0800
+
+    change check_heap.c to mem_impl.c
+
+commit 2bfcda31c5f25942c1e09b5cf5c0d7bdfe80dbf0
+Merge: f5c9c0d 633df2a
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Nov 19 14:43:27 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15au-students/cse374-15au-bg
+
+commit f5c9c0d2da156d7670de4424b1b8918aebef5b38
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Thu Nov 19 14:42:35 2015 -0800
+
+    change check_heap.c to mem_impl.c
+
+commit 4fc258e1fbd738735481f1c2bdc2a83552f3f828
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 17:57:53 2015 -0800
+
+    update git.log
+
+commit db1f885a40d6ede3ee48c1ce4abf245a37355f89
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 17:57:14 2015 -0800
+
+    add hw6.tar
+
+commit da553c1d2ebb4c1db56d55e73fb3a2335f957051
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 17:56:41 2015 -0800
+
+    modifying README and git.log
+
+commit 56a12d25dd1b6eaafeab6a9af7c45a32e340e651
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 17:51:14 2015 -0800
+
+    add git.log as of 11/17/15
+
+commit 982e2b45b4f78564df4ad64324396e3bd57b89a2
+Merge: 1ee5ca7 573a5ff
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 17:43:38 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15au-students/cse374-15au-bg
+
+commit 1ee5ca74ade7e6084977176fbb89e51cb7624998
+Merge: a460c6d 96d2980
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 17:33:09 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15au-students/cse374-15au-bg
+
+commit a460c6dce1c058c4276fbdc5aa10411af5907ad8
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 17:28:45 2015 -0800
+
+    add check_heap.c get_mem_stats.c getmem.c mem_impl.h
+
+commit 1d7e5a71f6d6d1393de3086dc9413fdcb200f5af
+Author: SIMENG ZHU <simenz@uw.edu>
+Date:   Tue Nov 17 16:56:58 2015 -0800
+
+    commit Makefile
+
+commit 633df2a763d4c0ca35f9e4b5f84fab251827f861
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 17 12:02:10 2015 -0800
+
+    remove check_heap.c
+
+commit 78237d3968e7c5ee572959a67899f0d57cd3f897
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 17 08:53:12 2015 -0800
+
+    modified header file
+
+commit 573a5ff1a9245b7eeded0cbb1f51c4e8d35a9885
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 17 02:09:05 2015 -0800
+
+    add bench.c freemem.c mem.h and print_heap.c
+
+commit 96d2980956ba7914c33666eb4beb228151749b79
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Tue Nov 17 01:47:52 2015 -0800
+
+    Update Makefile
+
+commit b2bcdc219a239dd8d24c3efc4f03892a929b92a5
+Author: ZICONG LIANG <zicong@uw.edu>
+Date:   Mon Nov 16 14:07:45 2015 -0800
+
+    add README
